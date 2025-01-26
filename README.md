@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Divyansh Rajput</h1>
 <h3 align="center">Computer Engineer || AI Engineer || Data Scientist || Software Developer || Technology Enthusiast</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshrajput126&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshrajput126" /> </p>
+
+<p align="left"> <a href="https://twitter.com/divyanshr126" target="blank"><img src="https://img.shields.io/twitter/follow/divyanshr126?logo=twitter&style=for-the-badge" alt="divyanshr126" /></a> </p>
+
 - 🌱 I’m currently learning **LLM's, Transformer Architecture, CI/CD, Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DivyanshRajput126](https://github.com/DivyanshRajput126)
@@ -18,6 +22,7 @@
 <a href="https://twitter.com/divyanshr126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divyanshr126" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/divyansh-rajput-49198524a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divyansh-rajput-49198524a/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/divyanshrajput126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/divyanshrajput126" height="30" width="40" /></a>
+<a href="https://discord.gg/divyanshrajput_126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="divyanshrajput_126" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
