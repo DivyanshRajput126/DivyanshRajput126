@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Divyansh Rajput</h1>
+<h1 align="center">Hi 👋, I'm Divyansh </h1>
 <h3 align="center">Computer Engineer || AI Engineer || Data Scientist || Software Developer || Technology Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshrajput126&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshrajput126" /> </p>
