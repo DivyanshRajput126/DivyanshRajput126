@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **divyanshrajput126@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16vZod_cX36xA5GOmHwoz1MnE3m8orQmp/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1O5_R6xZprq5E-DZIESnxvatcOiO6QOJV/view?usp=sharing)
 
 - ⚡ Fun fact **I write bugs faster than I fix them.**
 
